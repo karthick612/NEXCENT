@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;900&family=Rufina:wght@700&display=swap');
+
+@font-face {
+    font-family: "CustomFont";
+    src: url("./assets/font/ELEPHNT.woff");
+    src: url("./assets/font/ELEPHNT.woff") format("woff"),
+    }
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.register-but{
+    background-color: #4CAF4F;
+    color: white;
+}
+.header_background{
+    background: #F5F7FA;
+    height: 410px;
+    width: 100%;
+}
+.header_content h1{
+    color: #4D4D4D;
+    margin-top: 150px;
+    font-size: 55px;
+    font-family: 'Inter', sans-serif;
+
+}
+.header_content h3{
+    color: #4CAF4F;
+   font-size: 50px;
+   font-family: 'Inter', sans-serif;
+
+}
+.header_content button{
+    background-color: #4CAF4F;
+    color: white;
+    padding: 12px 38px;
+}
+ .header-img{
+    margin-top: 60px;
+    margin-left: 125px;
+    height: 328px;
+    width: 100%;
+} 
+.carousel{
+    margin-bottom: 70px;
+}
+.brands-container h3{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 32px;
+    color: #4D4D4D;
+
+}
+.brands-container p{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: #4D4D4D;
+
+}
+.company-logos img{
+    height: 45px;
+    width: 5%;
+    margin-left: 90px;
+}
+.association-container p{
+    color: #4D4D4D;
+    font-family: 'Inter', sans-serif;
+    font-size: 37px;
+    text-align: center;
+}
+.company-logos{
+    margin-bottom: 90px;
+}
+.association-container h5{
+    text-align: center;
+    color: #4D4D4D;
+    margin-bottom: 40px;
+
+}
+.membericon img{
+    height: 86px;
+    width: 40%;
+    margin-left: 74px;
+}
+.member-footer h5{
+    text-align: center;
+    color: #4D4D4D;
+    font-size: 23px;
+
+}
+.card{
+    border: 1px none ;
+}
+.member-footer p{
+    color: #717171;
+    font-size: 15px;
+}
+.cardcontainer{
+    margin-bottom: 50px;
+}
+.lorem-container h4{
+    color: #4D4D4D;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.lorem-container button{
+    background-color: #4CAF4F;
+    color: white;
+    padding: 5px 34px;
+    border: none;
+}
+.lorem-container p{
+    margin-bottom: 40px;
+}
+.cards-container{
+    margin-bottom: 90px;
+}
+.payment-bag{
+    background-color: #F5F7FA;
+    height: 300px;
+}
+.payment-bag h2{
+    margin-left: 140px;
+    position: relative;
+    top: 100px;
+    color: #4CAF4F;
+    font-size: 38px;
+    font-family: 'Inter', sans-serif;
+
+}
+.payment-bag h3{
+    margin-top: 120px;
+    margin-left: 140px;
+    color: #4D4D4D;
+    font-size: 28px;
+    font-family: 'Inter', sans-serif;
+
+}
+.payment-bag p{
+    margin-left: 137px;
+    font-size: 20px;
+    color: #18191F;
+}
+.para-container{
+    margin-bottom: 85px;
+}
+.payment-bag img{
+    margin: 77px;
+    height: 72px;
+}
+.payment-bag h4{
+    position: relative;
+    bottom: 128px;
+    /* font-size: 
+    9.35px; */
+    left: 170px;
+    color: #4D4D4D;
+    font-family: 'Inter';
+}
+.payment-bag h5{
+    position: relative;
+    bottom: 126px;
+    left: 181px;
+}
+.section-img{
+    height: 453px;
+}
+.intersection {
+    margin-top: 80px;
+    color: #4D4D4D;
+    font-family: 'Inter';
+}
+.nex-button{
+    background-color: #4CAF4F;
+    padding: 12px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.tesla-img{
+    height: 400px;
+    margin-top: 54px;
+}
+.nex-para{
+    margin-top: 80px;
+}
+.head-tag{
+    color: #4CAF4F;
+    text-align: center;
+
+    position: relative;
+    left: 60px;
+    bottom: 150px;
+}
+.head-text{
+    text-align: end;
+    position: relative;
+    right: 271px;
+    bottom: 127px;
+
+}
+.feedback_footer{
+    background-color: #224F34;
+    width: 10%;
+    height: 300px;
+}
+.footer-container{
+    background-color: #4CAF4F;
+    width: 100%;
+    height: 366px;
+}
+.Feedback_footer h3{
+    font-family: "CustomFont";
+    color: white;
+    margin-top: 90px;
+    font-size: 35px;
+}
+.Feedback_footer h4{
+    color: white;
+
+}
+.fa-facebook{
+    color: #e4e2e2;
+    padding: 7px 7px;
+}
+.fa-twitter{
+    width: 4%;
+    color: #e4e2e2;
+}
+
+.new_collection{
+    color: white;
+    margin-top: 80px;
+    right: 380px;
+    position: relative;
+}
+.fashion_footer h3{
+    color: white;
+    font-size: 22px;
+    top: 78px;
+    position: relative;
+    right: 340px;
+}
+.fashion_footer input{
+    margin-top: 123px;
+    right: 340px;
+    position: relative;
+    border: none;
+    padding: 10px;
+    width: 215px;
+}
+.customer_reviews{
+    margin-bottom: 240px;
+}
+.fashion_footer button{
+    position: relative;
+    right: 124px;
+    bottom: 45px;
+    background-color: #A3F3BE;
+    color: #224F34;
+    height: 45px;
+    width: 47%;
+    border: none;
+}
+.container_header{
+    width: 17rem;
+}
+.card_formalbag{
+    width: 17rem;
+}
